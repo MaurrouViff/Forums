@@ -554,10 +554,51 @@ video {
   display: none;
 }
 
+.m-0 {
+  margin: 0px;
+}
+
+.mr-12 {
+  margin-right: 3rem;
+}
+
 .flex {
   display: flex;
 }
 
+.min-h-\[70px\] {
+  min-height: 70px;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+.list-none {
+  list-style-type: none;
+}
+
 .flex-col {
   flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.gap-16 {
+  gap: 4rem;
+}
+
+.p-0 {
+  padding: 0px;
+}
+
+.px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }

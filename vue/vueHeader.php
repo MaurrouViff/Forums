@@ -9,7 +9,22 @@
     <link rel="icon" href="">
     <title><?php echo $titre ?></title>
 </head>
-<body class="flex flex-col ">
-<div>
+<body class="flex flex-col p-0 m-0">
+<header>
+    <nav class="min-h-[70px] flex justify-between items-center px-6">
+        <ul class="flex justify-between items-center gap-16 mr-12">
+            <li class="list-none">
+
+            </li>
+            <li class="list-none">
+
+            </li>
+            <li class="list-none">
+
+            </li>
+        </ul>
+    </nav>
+</header>
+<div class="flex-grow">
 
 
